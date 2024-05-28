@@ -1,0 +1,1 @@
+create table students(id int,name varchar(100),marks int,address varchar(100))
